@@ -1,0 +1,14 @@
+C:\Users\radit\source\repos\demoProject\bin\Debug\net6.0\demoProject.exe
+C:\Users\radit\source\repos\demoProject\bin\Debug\net6.0\demoProject.deps.json
+C:\Users\radit\source\repos\demoProject\bin\Debug\net6.0\demoProject.runtimeconfig.json
+C:\Users\radit\source\repos\demoProject\bin\Debug\net6.0\demoProject.dll
+C:\Users\radit\source\repos\demoProject\bin\Debug\net6.0\demoProject.pdb
+C:\Users\radit\source\repos\demoProject\obj\Debug\net6.0\demoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radit\source\repos\demoProject\obj\Debug\net6.0\demoProject.AssemblyInfoInputs.cache
+C:\Users\radit\source\repos\demoProject\obj\Debug\net6.0\demoProject.AssemblyInfo.cs
+C:\Users\radit\source\repos\demoProject\obj\Debug\net6.0\demoProject.csproj.CoreCompileInputs.cache
+C:\Users\radit\source\repos\demoProject\obj\Debug\net6.0\demoProject.dll
+C:\Users\radit\source\repos\demoProject\obj\Debug\net6.0\refint\demoProject.dll
+C:\Users\radit\source\repos\demoProject\obj\Debug\net6.0\demoProject.pdb
+C:\Users\radit\source\repos\demoProject\obj\Debug\net6.0\demoProject.genruntimeconfig.cache
+C:\Users\radit\source\repos\demoProject\obj\Debug\net6.0\ref\demoProject.dll
